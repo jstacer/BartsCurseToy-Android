@@ -1,0 +1,13 @@
+Bart's Curse Toy is my first Android app. It is a simple soundboard
+inspired by an old school Simpsons episode ("Lisa the Greek", Season 3).
+
+----------------------------------------------------------------------------------
+
+It uses OnClickListeners to play sound clips when you press corresponding buttons.
+The layout is a bit rough and I'm not sure how it will render on every phone,
+but at least the buttons work. 
+
+Can be installed on any Android by downloading .apk file and using a file manager 
+to install. 
+
+Source folder contains my source Java, XML and png/mp3 files.
