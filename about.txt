@@ -7,7 +7,4 @@ It uses OnClickListeners to play sound clips when you press corresponding button
 The layout is a bit rough and I'm not sure how it will render on every phone,
 but at least the buttons work. 
 
-Can be installed on any Android by downloading .apk file and using a file manager 
-to install. 
-
 Source folder contains my source Java, XML and png/mp3 files.
